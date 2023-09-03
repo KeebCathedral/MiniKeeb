@@ -1,7 +1,7 @@
 # MiniKeeb
 
 Want to edit your keyboard layout? You can find the required `.json` and `.hex` files [here](https://github.com/KeebCathedral/MiniKeeb/tree/main/keymaps).  
-
+---
 This is your main typing layer, very similar to that of a regular-sized keyboard.
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/main%20layer%20keymap.png)
