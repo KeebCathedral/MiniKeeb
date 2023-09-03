@@ -1,4 +1,4 @@
-How to edit your layout using the online QMK configurator: [here](https://www.youtube.com/watch?v=-imgglzDMdY&list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_&index=3)
+How to edit your layout using the online QMK configurator: [here](https://www.youtube.com/watch?v=-imgglzDMdY&list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_&index=3)\n
 
 General layout configuration explainations: [here](https://www.youtube.com/watch?v=FMNbRU65Ykc&list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_&index=5)
 
