@@ -13,5 +13,6 @@ Ready to try things out? [QMK Online Layout Configurator website:](https://confi
 ---
 
 Note: The default layout files use a dedicated layer for control+key combinations (MO(3)), as I found that performed better on my system (Windows). If you would rather avoid this implementation and work with a traditional QMK control key (KC_LCTL), the corresponding files are located inside the 'alternate files' folder found above. If unsure, disregard this notice and work with the files labeled 'default' in their names, also found above.
+TL;DR: Use default files, especially if the control shortcut gives you any trouble.
 
 ![image](https://github.com/KeebCathedral/MiniKeeb/assets/59219083/60ea28f9-6fdc-4f34-84c5-25c065269ea2)
