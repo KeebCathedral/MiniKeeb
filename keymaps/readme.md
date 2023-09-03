@@ -4,7 +4,7 @@ Brand new to QMK? Start by watching these guides listed below. `.json` for editi
 * [How to flash your .hex layout file onto your keyboard using QMK toolbox](https://www.youtube.com/watch?v=fuBJbdCFF0Q&list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_&index=1)
 
 *Hint:* click the upload .json keymap file button to get started using the provided file as a template:
-![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/upload%20json%20button.png)
+![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/upload%20json%20keymap%20button.png)
 
 Ready to try things out? [QMK Online Layout Configurator website:](https://config.qmk.fm/#/kprepublic/bm43a/LAYOUT)
 
