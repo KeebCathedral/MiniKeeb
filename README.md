@@ -16,4 +16,4 @@ On top of this, activated by holding down the "layer lower" (blue) key, is a fun
 
 And a view on the actual build:
 
-![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/primary%20keyboard%20photo.jpg)
+![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/primary%20keyboard%20photo.jpg)
