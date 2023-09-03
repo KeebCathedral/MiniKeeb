@@ -4,11 +4,11 @@ This is your main typing layer, very similar to that of a regular-sized keyboard
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/main%20layer%20keymap.png)
 
-In addition to the default key layer, there is a numbers/symbols/punctuation layer easily activated with the "layer raise" (red) key and containing virtually everything else a typist will need.
+In addition to the default key layer, there is a numbers/symbols/punctuation layer easily activated by holding down the "layer raise" (red) key and containing virtually everything else a typist will need.
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/raise%20layer%20keymap.png)
 
-On top of this, activated with the "layer lower" (blue) key, is a function/navigation/system layer where there are function keys, media keys, and navigation keys, in addition to the PrintScreen/ScrLock/CapsLock keys. 
+On top of this, activated by holding down the "layer lower" (blue) key, is a function/navigation/system layer where there are function keys, media keys, and navigation keys, in addition to the PrintScreen/ScrLock/CapsLock keys. 
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/lower%20layer%20keymap.png)
 
