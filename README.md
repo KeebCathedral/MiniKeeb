@@ -8,7 +8,7 @@ In addition to the default key layer, there is a numbers/symbols/punctuation lay
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/raise%20layer%20keymap.png)
 
-On top of this, activated by holding down the "layer lower" (blue) key, is a function/navigation/system layer where there are function keys, media keys (purple), and navigation cluster (orange), in addition to the PrintScreen/ScrLock/CapsLock keys. 
+On top of this, activated by holding down the "layer lower" (blue) key, is a function/navigation/system layer where there are function keys, media keys (purple), and navigation cluster (yellow), in addition to the PrintScreen/ScrLock/CapsLock keys. 
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/lower%20layer%20keymap.png)
 
