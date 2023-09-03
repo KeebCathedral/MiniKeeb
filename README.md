@@ -7,7 +7,7 @@ This is your main typing layer, very similar to that of a regular-sized keyboard
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/main%20layer%20keymap.png)
 
-In addition to the default key layer, there is a numbers/symbols/punctuation layer easily activated by holding down the "layer raise" (red) key and contains virtually everything else a typist will need.
+In addition to the default key layer, there is a numbers/symbols/punctuation layer easily activated by holding down the "layer raise" (red) key containing virtually everything else a typist will need.
 
 ![layout](https://github.com/KeebCathedral/MiniKeeb/blob/main/photos/raise%20layer%20keymap.png)
 
